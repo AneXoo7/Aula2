@@ -1,0 +1,30 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+img{
+    height: 500px;
+    border-radius: 75px;
+    display: block;
+    margin: 0 auto; 
+}
+body{
+    text-align: center;
+    font-size: 20px; 
+    font-family: sans-serif
+}
+header{
+    background-color: black;
+    padding: 15px;
+    color: white;
+    box-sizing: border-box;
+}
+header nav a{
+    color: #ffffff;
+    text-decoration: none;
+    padding: 0 6px
+}
+h1{
+    font-family: cursive;
+}
+   
